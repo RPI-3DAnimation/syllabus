@@ -36,6 +36,29 @@ By the completion of the course:
 
 *Students will be able to use key frames and adjust key frame interpolation via the Graph Editor
   
+##Schedule
+
+1. Bouncing Ball - 2 bouncing balls with different weights
+
+2. Microscopic world - reference, motion analysis; acceleration, inertia; planning timing and spacing; anticipation and overshoot
+3. Simple rigs for amoebas - deformers, joints, skinning, IK
+4. Overlapping action; exporting to Unity
+5. Rendering techniques - depth of field, shaders, lighting, motion blur
+
+6. Human body mechanics - short action, full body - reference, planning, blocking
+7. short action - splining
+
+8. walk cycle - blocking
+9. walk cycle - blocking+
+10. walk cycle - splining
+
+11. final - pantomime acting, 30-60 seconds, OR a set of game animations (loops and actions) totalling ~30 seconds 
+12. final - blocking 
+13. final - blocking+ 
+14. final - splining
+15. final - polishing 
+16. final critique during finals week
+
   
   
 
